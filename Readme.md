@@ -6,22 +6,19 @@ This repository is ideal for anyone learning Python and wanting to build small, 
 
 📁 Project Structure
 python-mini-projects/
-│
-├── guess_the_number/
-│   └── guess_the_number.py
-│
-├── rock_paper_scissors/
-│   └── rock_paper_scissors.py
-│
-├── number_order/
-│   └── number_order.py
-│
-├── code_generator/
-│   └── qr_code_generator.py
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
+## 📁 Project Structure
+
+- `guess_the_number/`
+  - `guess_the_number.py`
+- `rock_paper_scissors/`
+  - `rock_paper_scissors.py`
+- `number_order/`
+  - `number_order.py`
+- `code_generator/`
+  - `qr_code_generator.py`
+- `requirements.txt`
+- `.gitignore`
+- `README.md`
 
 
 Each folder contains one independent Python mini-project
