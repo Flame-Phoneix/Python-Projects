@@ -1,0 +1,5 @@
+These are the list of Modules used in this Projectgs:
+1) random
+2) qrcode
+3) pillow
+4) time
