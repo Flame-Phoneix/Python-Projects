@@ -34,9 +34,4 @@ end_time = time.time()
 total_time = round(end_time - start_time, 2)
 
 print("-----------------------")
-print(f'''
-Nice work!
-Total Time Taken: {total_time}
-Your Score: {TOTAL_PROBLEMS-wrong}
-Accuracy: {int(((TOTAL_PROBLEMS-wrong)/TOTAL_PROBLEMS)*100)}%
-''')
+print(f'''\nNice work!\nTotal Time Taken: {total_time}\nYour Score: {TOTAL_PROBLEMS-wrong}\nAccuracy: {int(((TOTAL_PROBLEMS-wrong)/TOTAL_PROBLEMS)*100)}%\n''')
